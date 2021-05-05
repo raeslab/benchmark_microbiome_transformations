@@ -1,5 +1,5 @@
 
-# Microbiota simulations
+# Benchmarking microbiome transformations
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/vllorens/microbiota_simulations/blob/master/LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4719508.svg)](https://doi.org/10.5281/zenodo.4719508)
